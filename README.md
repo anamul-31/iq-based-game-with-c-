@@ -1,1 +1,0 @@
-# iq-based-game-with-c-
